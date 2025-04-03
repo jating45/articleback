@@ -1,0 +1,60 @@
+{
+    "ctaInfo": [
+      {
+        "subtitle": "",
+        "title": "Farming Communities Are Growing The Future",
+        "description": "Explore unexpected dimensions of rural living, from innovation and diversity to resilience and sustainability.",
+        "buttonText": "Read more",
+        "buttonURL": "https://partners.time.com/partners/land-o-lakes/learn-more-about-the-cornerstones-of-rural-life-community-and-innovation/?prx_t=OQUJAlVZmAt_8PA&utm_campaign=206157&ntv_ui=e5a705da-920b-4130-8ba6-0dbbf",
+        "buttonTarget": "blank",
+        "subscribe": false,
+        "subtitleColor": "",
+        "titleColor": "",
+        "mainBackgroundColor": "#435B2C",
+        "descriptionColor": "",
+        "buttonClass": "butterYellowBtn",
+        "paddingAround": "2rem",
+        "textAlignment": "center",
+        "centerTextCtaType": "editorialCTA"
+      },
+      {
+        "subtitle": "",
+        "title": "Farming Communities Are Growing The Future",
+        "description": "Explore unexpected dimensions of rural living, from innovation and diversity to resilience and sustainability.",
+        "buttonText": "Read more",
+        "buttonURL": "https://partners.time.com/partners/land-o-lakes/learn-more-about-the-cornerstones-of-rural-life-community-and-innovation/?prx_t=OQUJAlVZmAt_8PA&utm_campaign=206157&ntv_ui=e5a705da-920b-4130-8ba6-0dbbf",
+        "buttonTarget": "blank",
+        "subscribe": false,
+        "subtitleColor": "",
+        "titleColor": "",
+        "mainBackgroundColor": "",
+        "descriptionColor": "",
+        "buttonClass": "butterYellowBtn",
+        "paddingAround": "2rem",
+        "textAlignment": "center",
+        "centerTextCtaType": "editorialCTA"
+      },
+      {
+        "subtitle": "",
+        "title": "Farming Communities Are Growing The Future",
+        "description": "\u003Cp\u003EExplore unexpected dimensions of rural living, from innovation and diversity to resilience and sustainability.\u003C/p\u003E\r\n",
+        "buttonText": "Read more",
+        "buttonURL": "https://partners.time.com/partners/land-o-lakes/learn-more-about-the-cornerstones-of-rural-life-community-and-innovation/?prx_t=OQUJAlVZmAt_8PA&utm_campaign=206157&ntv_ui=e5a705da-920b-4130-8ba6-0dbbf",
+        "buttonTarget": "blank",
+        "subscribe": true,
+        "subtitleColor": "",
+        "titleColor": "",
+        "mainBackgroundColor": "",
+        "descriptionColor": "",
+        "buttonClass": "butterYellowBtn",
+        "paddingAround": "2rem",
+        "textAlignment": "center",
+        "centerTextCtaType": "subscribe"
+      }
+    ],
+    "categoryInfo": [
+      {
+        "category": "Business,People,Responsibility,Rural Stories,Rooted In Tomorrow"
+      }
+    ]
+}
